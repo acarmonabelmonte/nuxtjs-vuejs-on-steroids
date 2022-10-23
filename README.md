@@ -29,18 +29,3 @@ By the end of the course, you'll have a complete Vue app, built with Nuxt.js, wh
 -   ... how you build an entire project, including authentication, via Nuxt.js
     
 -   And way more!
-    
-
-**Who am I?**
-
-My name is Maximilian Schwarzmüller and I built my company's (Academind) webpage with Nuxt.js.
-
-Besides that, I'm the instructor of the 5* rated, bestselling Vue.js course here on Udemy. I worked with Vue since it's beta, the same is true for Nuxt.js.
-
-I absolutely love these two frameworks and I can't wait to dive into them together with you!
-
-## ¿Para quién es este curso?
-
--   Anyone who wants to build engaging, (optionally) server-side-rendered Vue JS apps
--   Anyone who wants to work with Vuejs and follow a minimal-configuration approach
--   Anyone who wants to create static websites with Vuejs (Nuxt as a static page generator!)
